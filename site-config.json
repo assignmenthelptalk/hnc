@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "siteTitle": "HNC Assignment Help | Level 4 Merit & Distinction Support",
+    "siteDescription": "Professional HNC assignment help for Level 4 Higher National Certificate students. Expert writers aligned to Pearson BTEC grading criteria. Trusted by 6,000+ students.",
+    "siteUrl": "https://hnc-assignment-help.co.uk",
+    "faviconPath": "/favicon.ico",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+  },
+  "colors": {
+    "primary": "#1E3A5F",
+    "primaryDark": "#152A47",
+    "accent": "#F59E0B",
+    "accentDark": "#D97706",
+    "accentLight": "#FEF3C7",
+    "gold": "#F59E0B",
+    "goldDark": "#D97706",
+    "textBase": "#1A1A2E",
+    "textMuted": "#6B7280",
+    "bgWhite": "#FFFFFF",
+    "bgLight": "#F3F4F6",
+    "bgDark": "#1E3A5F",
+    "borderLight": "#E5E7EB",
+    "starColor": "#F59E0B",
+    "white": "#FFFFFF"
+  },
+  "typography": {
+    "fontFamily": "'Inter', sans-serif"
+  },
+  "header": {
+    "logoText": "HNC Help",
+    "logoHref": "/",
+    "navLinks": [
+      { "label": "Services", "href": "#services" },
+      { "label": "About", "href": "#about" },
+      { "label": "How It Works", "href": "#how-it-works" },
+      { "label": "FAQ", "href": "#faq" }
+    ],
+    "ctaButton": {
+      "label": "Get Help Now",
+      "href": "#contact"
+    }
+  },
+  "hero": {
+    "headingLine1": "Expert",
+    "headingHighlight": "HNC Assignment Help",
+    "headingLine3": "For Level 4 Students",
+    "subtext": "Struggling with your Higher National Certificate assignments? Our Level 4 specialists deliver analytically rigorous, criterion-referenced work aligned to Pearson BTEC grading standards.",
+    "primaryCta": {
+      "label": "Get Your Assignment Done",
+      "href": "#contact"
+    },
+    "secondaryCta": {
+      "label": "See how it works",
+      "href": "#how-it-works"
+    },
+    "badges": [
+      { "icon": "✓", "text": "100% Plagiarism Free" },
+      { "icon": "✓", "text": "On-Time Delivery" },
+      { "icon": "✓", "text": "Expert HNC Writers" },
+      { "icon": "✓", "text": "Free Revisions" },
+      { "icon": "✓", "text": "Confidential & Secure" }
+    ],
+    "image": {
+      "src": "/header_hnc-assignment-help.webp",
+      "alt": "HNC students in a tutorial session with an expert tutor"
+    }
+  },
+  "stats": [
+    { "icon": "🎓", "value": "6,000+", "label": "Assignments Completed" },
+    { "icon": "⭐", "value": "4.8/5",  "label": "Average Rating" },
+    { "icon": "📅", "value": "98%",    "label": "On-Time Delivery" },
+    { "icon": "🏆", "value": "14+",    "label": "Years Experience" }
+  ],
+  "about": {
+    "sectionId": "about",
+    "heading": "Why Students Trust Our HNC Assignment Help",
+    "paragraphs": [
+      "We specialise exclusively in Pearson BTEC and SQA Higher National qualifications, with a dedicated team of writers who have direct experience with HNC units, the Merit and Distinction grading criteria, and the analytical writing standards expected at Level 4.",
+      "From HNC Business and Computing through to Engineering and Health and Social Care, our writers understand how HNC assessment works in practice — unit outcomes, grading descriptors, the difference between Pass-level evidence and Distinction-level critical analysis."
+    ],
+    "highlights": [
+      "HNC-specialist writers",
+      "Unit-by-unit learning outcome alignment",
+      "Harvard referencing as standard",
+      "Turnitin originality report included"
+    ],
+    "imagePlaceholderAlt": "HNC Assignment Help illustration"
+  },
+  "qualifications": {
+    "sectionId": "services",
+    "heading": "HNC Subjects We Cover",
+    "subheading": "Expert support across all HNC pathways at Level 4 — Pearson BTEC and SQA.",
+    "cards": [
+      {
+        "icon": "📙",
+        "title": "HNC Assignment Help",
+        "description": "Expert guidance for all Pearson BTEC and SQA HNC qualifications at Level 4. Unit-specific writing, Merit and Distinction grading strategies, and Harvard referencing support across all subjects.",
+        "href": "/hnc-assignment-help/"
+      },
+      {
+        "icon": "📊",
+        "title": "HNC Business Assignment Help",
+        "description": "Specialist support for HNC Business — business environment, marketing, HRM, finance, and management units. Case study analysis, report writing, and Distinction-level critical frameworks.",
+        "href": "/hnc-business-assignment-help/"
+      },
+      {
+        "icon": "💻",
+        "title": "HNC Computing Assignment Help",
+        "description": "Technical assignment support for HNC Computing — networking, programming, database design, systems analysis, and cybersecurity units. Precise, examiner-aware technical writing.",
+        "href": "/hnc-computing-assignment-help/"
+      },
+      {
+        "icon": "⚙️",
+        "title": "HNC Engineering Assignment Help",
+        "description": "Specialist support for HNC Mechanical, Electrical, and Civil Engineering — technical reports, calculations, design briefs, and unit assignments aligned to Pearson grading criteria.",
+        "href": "/hnc-engineering-assignment-help/"
+      },
+      {
+        "icon": "🏥",
+        "title": "HNC Health and Social Care Assignment Help",
+        "description": "Level 4 support for HNC Health and Social Care — human development, safeguarding, care principles, reflective practice, and evidence-based unit assignments.",
+        "href": "/hnc-health-and-social-care-assignment-help/"
+      }
+    ]
+  },
+  "features": {
+    "heading": "What's Included in Every Order",
+    "cards": [
+      {
+        "icon": "📝",
+        "title": "Custom Written Content",
+        "description": "Every piece is written from scratch to your brief, unit outcomes, and word count."
+      },
+      {
+        "icon": "🔍",
+        "title": "Plagiarism Report",
+        "description": "Turnitin originality report included with every submission."
+      },
+      {
+        "icon": "📚",
+        "title": "Full Harvard Referencing",
+        "description": "Properly formatted reference list and in-text citations per Pearson BTEC requirements."
+      },
+      {
+        "icon": "✏️",
+        "title": "Unlimited Revisions",
+        "description": "Not satisfied? We revise until the work meets your expectations."
+      },
+      {
+        "icon": "🔒",
+        "title": "Strict Confidentiality",
+        "description": "Your identity and order details are never shared with third parties."
+      },
+      {
+        "icon": "⚡",
+        "title": "Express Delivery",
+        "description": "Need it fast? We offer 24-hour turnaround for urgent assignments."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Why Choose Us Over Others",
+    "items": [
+      {
+        "icon": "🎯",
+        "title": "HNC Specialists",
+        "description": "Unlike generic services, we focus solely on Pearson BTEC and SQA HNC qualifications at Level 4."
+      },
+      {
+        "icon": "👨‍🏫",
+        "title": "Qualified Writers",
+        "description": "All writers hold HND, degree-level, or equivalent academic credentials in their HNC subject area."
+      },
+      {
+        "icon": "💬",
+        "title": "Direct Communication",
+        "description": "Message your writer directly via our platform throughout the project."
+      },
+      {
+        "icon": "💰",
+        "title": "Transparent Pricing",
+        "description": "Fixed prices published upfront. No hidden fees, ever."
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "What Our Students Say",
+    "items": [
+      {
+        "stars": 5,
+        "quote": "Got a Distinction on my HNC Business unit thanks to the perfectly structured report and detailed grading criteria analysis. The writer clearly understood Pearson standards.",
+        "name": "Daniel R.",
+        "course": "HNC Business, Pearson BTEC Level 4"
+      },
+      {
+        "stars": 5,
+        "quote": "Submitted my HNC Computing networking assignment two days early and my tutor praised the technical depth. Went from a Pass to a Merit on my resubmission. Highly recommend.",
+        "name": "Aisha K.",
+        "course": "HNC Computing, Level 4"
+      },
+      {
+        "stars": 5,
+        "quote": "The HNC Engineering technical report support was exceptional. Accurate calculations, professional layout, and zero revisions needed. Absolutely worth it.",
+        "name": "Tom W.",
+        "course": "HNC Engineering (Mechanical), Level 4"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionId": "how-it-works",
+    "heading": "How It Works",
+    "subheading": "Four simple steps from brief to brilliant assignment.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Submit Your Brief",
+        "description": "Share your unit details, word count, deadline, and any guidance from your tutor."
+      },
+      {
+        "number": "02",
+        "title": "Get Matched",
+        "description": "We assign your order to a specialist HNC writer within 30 minutes."
+      },
+      {
+        "number": "03",
+        "title": "Track Progress",
+        "description": "Monitor your assignment in real-time and message your writer directly."
+      },
+      {
+        "number": "04",
+        "title": "Download & Submit",
+        "description": "Receive your completed, plagiarism-checked assignment before your deadline."
+      }
+    ]
+  },
+  "faq": {
+    "sectionId": "faq",
+    "heading": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Is this service specific to HNC qualifications?",
+        "answer": "Yes. We specialise exclusively in Pearson BTEC and SQA HNC qualifications at Level 4. Our writers are selected for their specific knowledge of HNC units, marking criteria, and Merit/Distinction grade descriptors — not generic academic writing."
+      },
+      {
+        "question": "Will my assignment be plagiarism free?",
+        "answer": "Every assignment is written from scratch and run through Turnitin before delivery. You receive a copy of the originality report alongside your completed work."
+      },
+      {
+        "question": "How quickly can you complete my assignment?",
+        "answer": "Standard turnaround is 5–7 days. For urgent orders we offer 24-hour and 48-hour expedited delivery at an additional cost. Contact us to confirm availability for your deadline."
+      },
+      {
+        "question": "What if I'm not happy with the work?",
+        "answer": "We offer unlimited free revisions within 14 days of delivery. If we cannot meet your requirements after multiple revisions, we offer a full refund — no questions asked."
+      },
+      {
+        "question": "Is my information kept confidential?",
+        "answer": "Absolutely. We never share your personal information or order details with any third party. Payments are processed through secure, encrypted channels and no identifying information is stored unnecessarily."
+      },
+      {
+        "question": "What is the difference between Pass, Merit, and Distinction at HNC?",
+        "answer": "At HNC Level 4, Pass means you have met all the unit learning outcomes. Merit requires broader knowledge application and some analytical depth. Distinction requires critical evaluation, independent judgement, and synthesis across the unit. Our writers produce Distinction-level work as standard."
+      },
+      {
+        "question": "Which HNC subjects do you support?",
+        "answer": "We support all HNC subjects including Business, Computing, Engineering (Mechanical, Electrical, Civil), Health and Social Care, Construction, Hospitality Management, and Sport. Contact us if your subject isn't listed."
+      }
+    ]
+  },
+  "mission": {
+    "heading": "Our Mission",
+    "text": "To make higher education accessible and achievable — giving every HNC student the expert guidance they need to thrive at Level 4 and progress with confidence."
+  },
+  "finalCta": {
+    "heading": "Ready to Achieve Distinction in Your HNC?",
+    "subtext": "Join 6,000+ HNC students who've hit Merit and Distinction with expert guidance. Get started in under 2 minutes.",
+    "button": {
+      "label": "Start Your Order Today",
+      "href": "#contact"
+    }
+  },
+  "footer": {
+    "logoText": "HNC Help",
+    "description": "The UK's trusted HNC assignment specialist. Supporting Level 4 students to achieve Merit and Distinction since 2011.",
+    "columns": [
+      {
+        "heading": "Quick Links",
+        "links": [
+          { "label": "Services",     "href": "#services" },
+          { "label": "About Us",     "href": "#about" },
+          { "label": "How It Works", "href": "#how-it-works" },
+          { "label": "FAQ",          "href": "#faq" }
+        ]
+      },
+      {
+        "heading": "HNC Subjects",
+        "links": [
+          { "label": "HNC Assignment Help",                    "href": "/hnc-assignment-help/" },
+          { "label": "HNC Business Assignment Help",           "href": "/hnc-business-assignment-help/" },
+          { "label": "HNC Computing Assignment Help",          "href": "/hnc-computing-assignment-help/" },
+          { "label": "HNC Engineering Assignment Help",        "href": "/hnc-engineering-assignment-help/" },
+          { "label": "HNC Health & Social Care Help",         "href": "/hnc-health-and-social-care-assignment-help/" }
+        ]
+      },
+      {
+        "heading": "Contact",
+        "links": [
+          { "label": "support@hnc-help.co.uk", "href": "mailto:support@hnc-help.co.uk" },
+          { "label": "WhatsApp Us",             "href": "https://wa.me/447700900000" }
+        ]
+      }
+    ],
+    "copyright": "© 2026 HNC Assignment Help. All rights reserved."
+  }
+}
