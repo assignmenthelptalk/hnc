@@ -61,13 +61,33 @@ const {
     </div>
     <div class="hero__visual">
       {image ? (
-        <img
-          src={image.src}
-          alt={image.alt}
-          class="hero__image"
-          loading="eager"
-          decoding="async"
-        />
+        <div class="hero__image-wrap">
+          <img
+            src={image.src}
+            alt={image.alt}
+            class="hero__image"
+            loading="eager"
+            decoding="async"
+          />
+          <div class="hero__flag" aria-label="UK-based service">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" role="img" aria-hidden="true">
+              <rect width="60" height="40" fill="#012169"/>
+              <!-- white diagonals -->
+              <polygon points="0,0 8,0 60,36 60,40 52,40 0,4" fill="white"/>
+              <polygon points="52,0 60,0 60,4 8,40 0,40 0,36" fill="white"/>
+              <!-- red diagonals -->
+              <polygon points="0,0 5,0 60,37.3 60,40 55,40 0,2.7" fill="#C8102E"/>
+              <polygon points="55,0 60,0 60,2.7 5,40 0,40 0,37.3" fill="#C8102E"/>
+              <!-- white cross -->
+              <rect x="0" y="15" width="60" height="10" fill="white"/>
+              <rect x="25" y="0" width="10" height="40" fill="white"/>
+              <!-- red cross -->
+              <rect x="0" y="17" width="60" height="6" fill="#C8102E"/>
+              <rect x="27" y="0" width="6" height="40" fill="#C8102E"/>
+            </svg>
+            <span>UK-Based Experts</span>
+          </div>
+        </div>
       ) : (
         <Fragment>
           <div class="hero__card hero__card--1">
@@ -202,19 +222,52 @@ const {
   .hero__visual {
     position: relative;
     display: flex;
-    flex-direction: column;
-    gap: 1.25rem;
-    align-items: flex-start;
-    padding: 2rem;
+    align-items: stretch;
+  }
+
+  .hero__image-wrap {
+    position: relative;
+    width: 100%;
+    border-radius: 1.25rem;
+    overflow: hidden;
+    box-shadow: 0 16px 56px rgba(27, 43, 75, 0.2);
   }
 
   .hero__image {
     width: 100%;
-    height: auto;
-    border-radius: 1rem;
-    box-shadow: 0 8px 40px rgba(27, 43, 75, 0.15);
+    height: 100%;
+    min-height: 460px;
     object-fit: cover;
+    object-position: center top;
     display: block;
+  }
+
+  .hero__flag {
+    position: absolute;
+    bottom: 1.25rem;
+    right: 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 2rem;
+    padding: 0.45rem 0.875rem 0.45rem 0.5rem;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    backdrop-filter: blur(4px);
+  }
+
+  .hero__flag svg {
+    width: 32px;
+    height: 21px;
+    border-radius: 3px;
+    flex-shrink: 0;
+  }
+
+  .hero__flag span {
+    font-size: 0.8125rem;
+    font-weight: 700;
+    color: var(--color-primary);
+    white-space: nowrap;
   }
 
   .hero__blob {
@@ -263,11 +316,11 @@ const {
   @media (max-width: 900px) {
     .hero__inner {
       grid-template-columns: 1fr;
-      gap: 2.5rem;
+      gap: 2rem;
     }
 
-    .hero__visual {
-      display: none;
+    .hero__image {
+      min-height: 280px;
     }
   }
 
